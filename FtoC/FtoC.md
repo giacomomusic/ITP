@@ -14,7 +14,7 @@ let c = (((f-32)*(5/9)))
 console.log((c)
 ```
 
-##Problems you faced/ how you fixed them?
+## Problems you faced/ How you fixed them?
 
 During the initial writing of the code I was trying to write out the equation and javaScript did not like when I was not very specific with my order of operations. I originally did not have parathesis around the second half of the equation but after adding them it immidiatley solved the problem. 
 
