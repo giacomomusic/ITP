@@ -1,10 +1,10 @@
 # FtoC HW
 
-##What you did?
+## What you did?
 
 This week I used javaScript in order to code the calculation from 99 degrees fahrenheit to celcius. 
 
-##How you did it?
+## How you did it?
 
 I used the materials from class alongside my own intuition in order to code this calculation in javaScript. My final code ended up being:
 
