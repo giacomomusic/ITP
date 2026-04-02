@@ -1,7 +1,5 @@
 # Band Website
 
-# Band Website
-
 ## Link to the Site
 
 ["Almost" Bruno Mars](https://davidhakjunkim.github.io/)
